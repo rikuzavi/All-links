@@ -1,5 +1,5 @@
 # All-links
-This contains all the private links
+This contains all the public links
 
 PORTFOLIO - https://rikuzavi.github.io/Shaswata-Portfolio/
 
